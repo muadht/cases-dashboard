@@ -1,0 +1,24 @@
+
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit-specific
+.streamlit/secrets.toml
+
+# Data files (consider if you want to track these or not)
+# data/*.csv
+
+# Environment
+.env
+.venv
+venv/
+env/
+
+# IDE-specific files (if you're using these)
+.vscode/
+.idea/
+
+# Mac OS specific files
+.DS_Store

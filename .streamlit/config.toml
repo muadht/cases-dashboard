@@ -1,0 +1,5 @@
+[theme]
+base="light"
+primaryColor="#005a9e"  # A deeper blue for a more refined look
+secondaryBackgroundColor="#e8ecf1"  # Softer, elegant gray-blue for a clean contrast
+textColor="#1a1a1a"  # Darker text for better readability

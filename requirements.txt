@@ -2,7 +2,4 @@ streamlit
 pandas
 numpy
 matplotlib
-requests
 plotly
-arabic_support
-
